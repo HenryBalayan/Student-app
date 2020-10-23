@@ -1,0 +1,72 @@
+.container{
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 3px;
+    height: 100vh;
+}
+
+
+.btn{
+    margin-left: 90%;
+    border-radius: 5px;
+    background-color: yellowgreen;
+    height: 40px;
+}
+
+.nameId{
+    display: flex;
+    color:red;   
+}
+
+.name{
+    margin-left: 150px;
+}
+
+
+.modalcontainer{
+    margin-top: 3px;
+    background-color:white;
+    height: 40vh;
+    border-radius: 5px;
+
+}
+
+.modalcontainer h1{
+    color: darkgrey;
+    margin-left: 30px;
+    padding-top: 50px;
+}
+.modalcontainer label{
+    color: lightgrey;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.modalcontainer input{
+    background-color:lightgrey;
+    border-radius: 3px;
+    border-color:lightgrey;
+    width: 90%;
+    height: 30px;
+}
+
+.btnsave{
+    background-color: blue;
+    border-radius: 3px;
+    border:none;
+    width: 100px;
+    color: white;
+}
+
+.btncancel{
+    background-color:red;
+    border-radius: 3px;
+    border:none;
+    width: 100px;
+    color: white;
+}
+
+
+.btncontainer{
+    margin-left: 30px;
+    margin-top: 10px;
+}

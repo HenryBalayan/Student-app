@@ -2,14 +2,9 @@ import React from 'react';
 import Dash from './Dashboard.css';
 export default function Dashboard() {
     return (
-        <div className="dashboard">
-  
-         
-        
-            
-            
-            
-            <div className="search"> 
+        <div className="container">
+   <div className="dashboard">
+          <div className="search"> 
             <div>
             <label>Name</label>
              <input name="Search Name"/><br/>
@@ -38,10 +33,9 @@ export default function Dashboard() {
          
             </div>
          </div>
-        
-    
-      
-        
         </div>
+    
+        </div>
+     
     )
 }
